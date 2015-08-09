@@ -1,0 +1,2 @@
+clearvars -global
+clearvars
